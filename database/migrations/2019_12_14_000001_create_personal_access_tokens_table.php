@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Schema;
 return new class extends Migration
 {
     /**
-     * Run the migrations.
+     * Run the migrationsphp artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider".
      */
     public function up(): void
     {
